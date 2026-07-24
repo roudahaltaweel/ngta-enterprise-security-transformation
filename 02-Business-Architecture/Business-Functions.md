@@ -22,3 +22,25 @@ Understanding these business functions provides the foundation for future enterp
 | Security Governance, Risk and Compliance | Develop security policies, manage risks, and ensure compliance with regulations and standards. | GRC |
 | Digital Forensics and Incident Response | Investigate cybersecurity incidents and support digital evidence collection and recovery. | Digital Forensics, Incident Response |
 | Vendor and Technology Management | Manage relationships with technology vendors and oversee technology procurement. | Procurement, IT |
+---
+
+## Business Need
+
+NGTA provides shared technology services to multiple UAE government entities. Clearly defining the organization's business functions ensures that technology investments, cybersecurity initiatives, and operational processes are aligned with business objectives. This creates a strong foundation for enterprise architecture and future security planning.
+
+---
+
+## Security Benefit
+
+Understanding the organization's business functions helps identify critical services that require protection. It also supports future activities such as asset identification, risk assessment, business continuity planning, access control, and security architecture design.
+
+---
+
+## Assumptions
+
+The following assumptions were made while defining the business functions:
+
+- NGTA is responsible for delivering centralized technology services to UAE government entities.
+- Cybersecurity is integrated into all technology operations rather than operating as an isolated function.
+- Cloud infrastructure is a strategic platform for hosting government services.
+- The organization follows recognized governance and compliance frameworks for information security.
