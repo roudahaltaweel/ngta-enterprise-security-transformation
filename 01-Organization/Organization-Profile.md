@@ -7,10 +7,10 @@
 | Organization Name | National Government Technology Authority (NGTA) |
 | Organization Type | Fictional Federal Government Authority |
 | Headquarters | Abu Dhabi, UAE |
-| Established | 2022 (Fictional) |
-| Employees | Approximately 1,500 |
+| Established | 2027 (Fictional) |
+| Employees | 500–800 (fictional for portfolio purposes) |
 | Industry | Government Technology & Cybersecurity |
-
+Organization Size | Medium-sized
 ---
 
 # Mission
