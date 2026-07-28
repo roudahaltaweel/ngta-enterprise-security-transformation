@@ -8,9 +8,9 @@
 | Organization Type | Fictional Federal Government Authority |
 | Headquarters | Abu Dhabi, UAE |
 | Established | 2027 (Fictional) |
-| Employees | 500–800 (fictional for portfolio purposes) |
+| Organization Size | Medium-sized Federal Government Authority |
+| Employees | Not specified (Scalable for portfolio purposes) |
 | Industry | Government Technology & Cybersecurity |
-Organization Size | Medium-sized
 ---
 
 # Mission
